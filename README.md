@@ -9,8 +9,8 @@
 
 ##### 下载预训练权重
     将下载的final_weight.pth放入weights/文件夹：
-        百度云链接：https://pan.baidu.com/s/1kLWiTaK5RtEw1niaD20PLQ
-        提取码：z72f
+    百度云链接：https://pan.baidu.com/s/1kLWiTaK5RtEw1niaD20PLQ
+    提取码：z72f
 
 ## 测试
 
